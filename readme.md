@@ -4,4 +4,4 @@ I'm Rado, a full-stack developer, a teacher and a perpetual student. I'm passion
 
 The parts of coding I like the most are automation, Backend and CI/CD
 
-🚧👷‍♂️🚜WORK IN PROGRESS.... 🚜👷‍♂️🚧
+🚧👷‍♂️🚜 WORK IN PROGRESS.... 🚜👷‍♂️🚧
